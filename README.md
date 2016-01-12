@@ -19,7 +19,7 @@ git webhooks
     
 ##### run 
 
-  node index.js
+    node index.js
 
 ##### set post url
 
