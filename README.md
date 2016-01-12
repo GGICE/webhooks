@@ -21,7 +21,7 @@ When code git push, host do git pull.
     
 ##### run 
 
-  node index.js
+    node index.js
 
 ##### set post url
 
