@@ -1,5 +1,7 @@
 git webhooks
 
+When code git push, host do git pull.
+
 ####use
 
 ##### set git info , support many git 
