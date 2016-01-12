@@ -2,6 +2,8 @@ git webhooks
 
 ####use
 
+##### set git info , support many git 
+
     mkdir data
     vi data.js
   
@@ -14,3 +16,13 @@ git webhooks
         'secret' : 'test'
       }
     ];
+    
+##### run 
+
+  node index.js
+
+##### set post url
+
+    post url like :
+    
+    http://host:9002/?secret=test
