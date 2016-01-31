@@ -15,6 +15,7 @@ When code git push, host do git pull.
       {
         'gitUrl' : 'git@github.com:ggice/icer.git',
         'path' : '/home/ggice/code/node/icer',
+        'do' : 'pm2 restart test',
         'secret' : 'test'
       }
     ];
